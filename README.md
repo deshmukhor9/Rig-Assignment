@@ -19,7 +19,7 @@ This project is a web application built with **React.js** for the frontend and *
 Navigate to the Backend directory:
 
 bash
-cd user/src/Backend
+cd src/Backend
 
 **Install dependencies:**
 bash
@@ -33,7 +33,7 @@ The backend will be running at http://localhost:8000.
 **Frontend Setup (React.js)**
 **Navigate to the Frontend directory:**
 bash
-cd user/src/
+cd src/
 **Install dependencies:**
 bash
 npm install
